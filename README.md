@@ -5,8 +5,7 @@ The school district would like to investigate academic dishonest at schools thro
 
 ## Results
 
-We removed the 9th Grade Scores from our data. Taking the 9th grade data from THS out of the scope did not have a great effect on the school districts averages grades. 
-![Image 1 ](https://github.com/LindsayTeeters/Week_4/blob/main/Resources/Deliverable%201-%20LOC%20replace%20ninth%20graders%20grade%20with%20NaN.png)
+We removed the 9th Grade Scores from our data. Taking the 9th grade data from THS out of the scope did not have a great effect on the school districts averages grades. ![Image 1 ](https://github.com/LindsayTeeters/Week_4/blob/main/Resources/Deliverable%201-%20LOC%20replace%20ninth%20graders%20grade%20with%20NaN.png)
 
 Math Scores (with 9th Grade THS taken out of the scope)
 ![Math Scores](https://github.com/LindsayTeeters/Week_4/blob/main/Resources/Math%20Scores.png)
